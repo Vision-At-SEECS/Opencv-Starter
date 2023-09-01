@@ -39,4 +39,4 @@ If the results are printed out without any errors, congratulations !!! You have 
 <b>08: </b> [Bag of Visual Words Model](././08.ipynb) <br>
 
 ## Credits
-This OpenCV starter tutorial is prepared and provided by our MachVIS alumnus Mr. Asim Hameed. For more information, you can contact him via email at [akhan.mscs19seecs@seecs.edu.pk](akhan.mscs19seecs@seecs.edu.pk) or you can visit his GitHub profile [https://github.com/asimniazi63](https://github.com/asimniazi63).
+This OpenCV starter tutorial is prepared and provided by our MachVIS alumnus Mr. Asim Hameed. For more information, you can contact him via email at [asimhameed.cs@gmail.com](asimhameed.cs@gmail.com) or you can visit his GitHub profile [https://github.com/asimniazi63](https://github.com/asimniazi63).
